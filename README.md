@@ -1,5 +1,12 @@
 # Q Art
 
+The goal is to get some kind of infinite-zoom capability as we scroll through the images of an art gallery...
+
+Current WIP:
+
+
+
+## Development
 To develop locally, we support VS Code (or any other way to edit HTML!).
 
 
