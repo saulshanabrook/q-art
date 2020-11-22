@@ -2,10 +2,19 @@ body {
   margin: 0;
 }
 
+#images {
+  transform: scale(1);
+  height: 100vh;
+  width: 100vw;
+  /* counter-reset: listCounter; */
+  position: fixed;
+}
+
 img {
+  /* counter-increment: listCounter; */
+
   max-width: 100vw;
   max-height: 100vh;
-  transform: translateX(-50%) scale(0);
   position: fixed;
   left: 50%;
 }
